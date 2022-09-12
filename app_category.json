@@ -7,6 +7,9 @@
 			"name": "Apertivo"
 		},
 		{
+			"name": "Starters"
+		},
+		{
 			"category_name": "Starters",
 			"name": "Aperitivo"
 		},
@@ -18,9 +21,6 @@
 		},
 		{
 			"name": "Main course"
-		},
-		{
-			"name": "Starters"
 		}
 	]
 }
