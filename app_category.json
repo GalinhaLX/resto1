@@ -1,6 +1,10 @@
 {
 	"category": [
 		{
+			"category_name": "Starters",
+			"name": "Aperitivo"
+		},
+		{
 			"name": "Apertivo"
 		},
 		{
@@ -8,10 +12,6 @@
 		},
 		{
 			"name": "Starters"
-		},
-		{
-			"category_name": "Starters",
-			"name": "Aperitivo"
 		},
 		{
 			"name": "Starters"
