@@ -1,8 +1,11 @@
 {
 	"category": [
 		{
-			"category_name": "Starters"
+			"category_name": "Starters",
+			"name": "sdf"
 		},
-		{}
+		{
+			"name": "sdf"
+		}
 	]
 }
